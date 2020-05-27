@@ -1,0 +1,6 @@
+G:\Bnot Elisheva\ShapeUpDBProject\Common\obj\Debug\Common.csprojAssemblyReference.cache
+G:\Bnot Elisheva\ShapeUpDBProject\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\Bnot Elisheva\ShapeUpDBProject\Common\bin\Debug\Common.dll
+G:\Bnot Elisheva\ShapeUpDBProject\Common\bin\Debug\Common.pdb
+G:\Bnot Elisheva\ShapeUpDBProject\Common\obj\Debug\Common.dll
+G:\Bnot Elisheva\ShapeUpDBProject\Common\obj\Debug\Common.pdb

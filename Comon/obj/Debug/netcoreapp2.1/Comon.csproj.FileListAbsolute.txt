@@ -1,0 +1,12 @@
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\bin\Debug\netcoreapp2.1\Comon.deps.json
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\bin\Debug\netcoreapp2.1\Comon.dll
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\bin\Debug\netcoreapp2.1\Comon.pdb
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.csproj.CoreCompileInputs.cache
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.AssemblyInfoInputs.cache
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.AssemblyInfo.cs
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.dll
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.pdb
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\bin\Debug\netcoreapp2.1\Repositories.dll
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\bin\Debug\netcoreapp2.1\Repositories.pdb
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.csprojAssemblyReference.cache
+G:\Bnot Elisheva\ShapeUpDBProject\Comon\obj\Debug\netcoreapp2.1\Comon.csproj.CopyComplete
